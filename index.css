@@ -1,0 +1,29 @@
+
+
+
+body {
+  background-color: pink;
+}
+h1{
+  background-color: #FFFF00;
+  text-shadow: 2px 2px 2px pink;
+}
+
+#map {
+  width: 165;
+  height: 165;
+}
+body{
+  text-align: center;
+}
+ol, ul{
+  list-style-position: inside;
+}
+
+
+
+
+footer{
+  border-top: solid #FFD700;
+  margin-bottom:
+}

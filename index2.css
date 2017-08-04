@@ -1,0 +1,32 @@
+body {
+  background-color: pink;
+}
+h1{
+  background-color: #FFFF00;
+  text-shadow: 2px 2px 2px pink;
+}
+
+button{
+  font-family: "Georgia", Times, serif;
+  text-shadow: 2px 2px 2px pink;
+  font-weight: bold;
+  padding: 10px;
+  font-size: 15px;
+  background-color: yellow;
+  color: black;
+}
+
+img{
+  opacity: 0;
+}
+
+body{
+  text-align: center;
+}
+ol, ul{
+  list-style-position: inside;
+}
+
+footer{
+  border-top: solid #FFD700;
+  margin-bottom:
